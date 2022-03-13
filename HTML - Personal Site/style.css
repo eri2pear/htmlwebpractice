@@ -1,0 +1,27 @@
+.profile {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+}
+.pp{
+  background-color: #e7e247;
+  width:16.66%
+}
+.bio{
+  background-color: #e9edde;
+  width:50%
+}
+.skills{
+  background-color: #D6EDDD;
+  width:33.33%;
+}
+.skilllist{
+  display:flex;
+  flex-direction: row;
+}
+.skillname{
+  width:66.6%;
+}
+.rating{
+  width: 33.3%;
+}
